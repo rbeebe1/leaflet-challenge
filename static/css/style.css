@@ -10,12 +10,12 @@ html {
 }
 
 .legend {
-  padding: 6px 6px; /* Adjust padding for a more compact look */
-  font-size: 12px; /* Smaller font size for overall text */
+  padding: 6px 6px; 
+  font-size: 12px; 
   background: white;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
   border-radius: 5px;
-  width: 120px; /* Adjust the width for a shorter legend */
+  width: 120px; 
 }
 
 .legend i {
@@ -28,5 +28,5 @@ html {
 
 .legend div {
   text-align: center;
-  padding: 3px 0; /* Adjust padding for vertical alignment */
+  padding: 3px 0; 
 }
