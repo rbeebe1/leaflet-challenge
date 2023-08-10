@@ -17,7 +17,7 @@ function depthColor(depth) {
     if (depth < 45) return "#006400";   // Dark Green
     if (depth < 60) return "#FFFF00";   // Light Yellow
     if (depth < 75) return "#FFD700";   // Yellow
-    if (depth < 90) return "#FFD000";   // Gold
+    if (depth < 90) return "#FFD000";   // Dark Gold
     if (depth < 100) return "#FF8C00";  // Dark Orange
     if (depth < 150) return "#FFA500";  // Orange
     if (depth < 200) return "#FF4500";  // Orange Red
